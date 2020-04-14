@@ -101,6 +101,7 @@
 
 .two-columns__main-text{
     display: flex;
+    flex-direction: column;
     width: 80%;
     min-width: 784px;
     line-height: 34px;
@@ -110,14 +111,13 @@
 
 .two-columns__paragraph{
   margin: 0px;
+  padding: 0px;
   line-height: 34px;
   font-size: 24px;
-  padding: 0px;
-  margin: 0px;
+  margin: 30px 0px;
 }
 
 .two-columns__span-accent{
-    margin: 30px 0px;
     font-weight: bold;
     line-height: 34px;
     font-size: 24px;
@@ -280,7 +280,6 @@
   width: 90%;
   margin: 60px auto 40px;
   justify-content: space-between;
-  border: 1px red solid;
 }
 
 .footer__column{
@@ -302,12 +301,10 @@
 }
 
 .footer__author{
-  border: 1px red solid;
   display: flex;
   font-size: 18px;
   line-height: 25px;
   margin: 18px 0px;
-
 }
 
 .footer__author::before{
