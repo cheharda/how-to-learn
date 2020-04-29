@@ -1,0 +1,15 @@
+@import url(./_facebook::before/footer__column-link_facebook::before.css);
+@import url(./_instagram::before/footer__column-link_instagram::before.css);
+@import url(./_vk::before/footer__column-link_vk::before.css);
+
+.footer__column-link{
+  padding: 0px;
+  margin: 0px;
+  margin-top: 20px;
+  margin-bottom: 16px;
+  color: white;
+  text-decoration: none;
+  line-height: 30px;
+  font-size: 18px;
+  list-style: none;
+}

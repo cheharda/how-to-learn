@@ -1,0 +1,15 @@
+@import url(./kaufman__triangle/kaufman__triangle.css);
+@import url(/blocks/section-title/section-title.css);
+@import url(/blocks/section-subtitle/section-subtitle.css);
+@import url(/blocks/table/table.css);
+
+.kaufman{
+  background-color: #1F1F1F;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+}

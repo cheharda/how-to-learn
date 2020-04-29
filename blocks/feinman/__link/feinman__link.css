@@ -1,0 +1,10 @@
+.feinman__link{
+  color:  black;
+  position: absolute;
+  line-height: 51px;
+  font-size: 36px;
+  right: 48px;
+  top: 50%;
+  align-self: flex-end;
+  text-decoration: none;
+}

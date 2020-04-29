@@ -1,0 +1,8 @@
+@import url(./::before/footer__author::before.css);
+
+.footer__author{
+  display: flex;
+  font-size: 18px;
+  line-height: 25px;
+  margin: 18px 0px;
+}

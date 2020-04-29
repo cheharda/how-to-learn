@@ -1,0 +1,3 @@
+.footer__author::before{
+  content: '\00A9';
+}
