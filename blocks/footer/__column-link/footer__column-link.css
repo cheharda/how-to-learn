@@ -2,6 +2,10 @@
 @import url(./_instagram::before/footer__column-link_instagram::before.css);
 @import url(./_vk::before/footer__column-link_vk::before.css);
 
+.footer__column-link:hover {
+  color: #0f0;
+}
+
 .footer__column-link{
   padding: 0px;
   margin: 0px;

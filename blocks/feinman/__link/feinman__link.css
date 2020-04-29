@@ -1,3 +1,7 @@
+.feinman__link:hover {
+  color: #0f0;
+}
+
 .feinman__link{
   color:  black;
   position: absolute;

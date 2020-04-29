@@ -1,3 +1,7 @@
+.resources__logo:hover {
+  color: #0f0;
+}
+
 .resources__logo{
   display: flex;
   justify-content: center;
