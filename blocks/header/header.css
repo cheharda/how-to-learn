@@ -3,8 +3,6 @@
 @import url(./__square-pic/header__square-pic.css);
 @import url(./__subtitle/header__subtitle.css);
 @import url(./__title/header__title.css);
-@import url(../blocks/logo/logo.css);
-@import url(../rotation/rotation.css);
 
 .header {
   position: relative;

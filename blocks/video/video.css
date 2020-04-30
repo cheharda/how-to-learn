@@ -3,10 +3,9 @@
 
 .video{
   display: flex;
-  height: 550px;
   flex-direction: column;
   justify-content: center;
   align-self: center;
   overflow: visible;
-
+  transform: translate(0, 50px);
 }
