@@ -4,5 +4,5 @@
     height: 32px;
     left: 64px;
     top: 30px;
-    background-image: url(/images/logo_grey.svg);
+    background-image: url('../../../images/logo_grey.svg');
 }

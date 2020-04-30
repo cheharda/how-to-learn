@@ -6,7 +6,7 @@
   height: 790px;
   background-color: #F2F2F2;
   display: flex;
-  background-image: url(/images/feinman.png);
+  background-image: url('../../images/feinman.png');
   background-repeat: no-repeat;
   background-position: bottom left;
   background-size: 867px 637px;
