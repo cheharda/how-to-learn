@@ -2,21 +2,6 @@
   color: #0f0;
 }
 
-.footer__column-link_vk::before {
-  content: url('../../../images/vk_white.svg');
-  padding-right: 10px;
-}
-
-.footer__column-link_instagram::before {
-  content: url('../../../images/instagram_white.svg');
-  padding-right: 10px;
-}
-
-.footer__column-link_facebook::before {
-  content: url('../../../images/facebook_white.svg');
-  padding-right: 10px;
-}
-
 .footer__column-link{
   padding: 0px;
   margin: 0px;
